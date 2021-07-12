@@ -1,4 +1,4 @@
-# Face Bank Credit Card Recognition Android App
+# Bank Credit Card Recognition Android App
 Bank Credit Card Recognition APP (No license, Unlimited devices, Source code available)
 Supports all cards(credit, debit, travel, prepaid, corporate…) from Visa, MasterCard, American Express, RuPay, Discover…
 
