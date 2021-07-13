@@ -8,7 +8,7 @@ App download: https://appsenjoy.com/LYZ7a
 <img src="screeenshot/creditcard_demo.gif" width="256"/>
 
 ### - Test more SDK(Face Recognition / Liveness Detection, License Plate / Credit Card / ID Card / Passport / Bank Check Document Recognition)
-https://rapidapi.com/computervisionapis-computervisionapis-default/api/computervisionapis1/tutorials
+https://rapidapi.com/computervisionapis-computervisionapis-default/api/computervisionapis1/
 
 ### - Video
 https://vimeo.com/573102118
