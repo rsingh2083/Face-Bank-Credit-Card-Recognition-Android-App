@@ -13,6 +13,6 @@ https://rapidapi.com/computervisionapis-computervisionapis-default/api/computerv
 ### - Video
 https://vimeo.com/573102118
 
-2021.7.13 updated
+2021.7.14 updated
 
 Skype: live:.cid.db53779be39cbbcf   , buyun
